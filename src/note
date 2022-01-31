@@ -1,0 +1,8 @@
+single and reusable(buttons and others)
+funtionality with interfaces
+learn react router
+create two pages : 1) login page 2)homepage
+
+
+const [userInout, setuserInout] = useState("");
+ const [list, setlist] = useState([]);
